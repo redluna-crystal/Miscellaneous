@@ -1,3 +1,3 @@
 # Miscellaineous
 
-##This contains : My personalized GVim ~/.vmrc file.
+###This contains : My personalized GVim ~/.vmrc file.
